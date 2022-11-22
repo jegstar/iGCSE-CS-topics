@@ -6,6 +6,8 @@ Question text
 print('This is a code section')
 ```
 
+You can have more text after
+
 <details>
 <summary>Answers</summary>
 

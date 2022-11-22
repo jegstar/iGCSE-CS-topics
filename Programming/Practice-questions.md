@@ -244,6 +244,29 @@ print(maths(num))
 
 # Conditionals
 
+_Yu_Tang_
+
+What is the output?
+
+```python
+
+a='there is going to be a typhon today'
+if (len(a))!= (5 * min(7, 8)):
+  print (a[9:])
+else:
+  print (pow(3,2))
+
+
+
+```
+
+<details>
+<summary>Answers</summary>
+
+9
+
+</details>
+
 ---
 
 _OscarS_

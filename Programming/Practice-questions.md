@@ -1,6 +1,7 @@
 # Types
 
 _Jacob_
+
 What data type is returned from this function?
 
 ```python

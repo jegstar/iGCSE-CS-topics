@@ -1,4 +1,6 @@
-## This is a a question
+## Question Title
+
+Question text
 
 ```python
 print('This is a code section')

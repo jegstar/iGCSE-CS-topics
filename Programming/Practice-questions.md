@@ -1,21 +1,22 @@
 # Sample
 
-## Sample question
+## What is a monkey?
 
-Question text
+Monkeys why?
 
 ```python
-print('This is a code section')
+print(“MONKE!”)
 ```
 
-You can have more text after
+jflkdsajfklds;ajflk;dsajf;ds
 
 <details>
 <summary>Answers</summary>
 
-Write the answers here, there __MUST__ be a blank line above. 
+jhfks;ldajfk;ldsajflk;dsajfkldsajf;lsa
 
 </details>
+
 
 
 # Types

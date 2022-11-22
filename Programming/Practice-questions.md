@@ -23,7 +23,9 @@ float
 </details>
 
 # Arithmetic Operators
+
 _Steven_Han_
+
 Find the output
 
 ```python
@@ -51,6 +53,7 @@ else:
 ---
 
 _Joanne_
+
 Find the surface area of a cube, when the length of a side is 8. 
 
 ```python
@@ -71,7 +74,9 @@ print("Surface area of cube is: ", surfacearea)
 ---
 
 _Divyash_
+
 What will the output be for the given inputs?
+
 ```python
 a = int(input(1))
 b = int(input(2))
@@ -89,6 +94,8 @@ print((-b * (b ** 2 - 4 * a * c) ** 0.5) / (2 * a))
 </details>
 
 ---
+
+_Mystery_student_
 
 What is the output
 ```python
@@ -139,9 +146,10 @@ Function is written incorrectly. Fix: lst.append(H1)
 
 ---
 
-What is the output?
 
 _Emir_ 
+
+What is the output?
 
 ```python
 def math():
@@ -235,7 +243,9 @@ print(maths(num))
 </details>
 
 # Conditionals
+
 ---
+
 _OscarS_
 
 Find the errors (there are 2)
@@ -322,6 +332,8 @@ iiiii
 </details>
 
 _Roker_
+
+What is the output?
 ```python
 x = 10
 while x < 20:
@@ -351,6 +363,8 @@ while x < 20:
 ---
 
 _Evil_Marcus_
+
+What is the output?
 ```python
 import random
 import time
@@ -397,7 +411,41 @@ while x < 4:
 
 
 # For Loops
+_ Millie Yeh _
+Rewrite the loop
 
+```python
+
+for i in range (10):
+  print(a)
+
+```
+
+<details>
+<summary>Answers</summary>
+
+```python
+a = 0  
+while a <= 9:
+a += 1
+print(a)
+
+```
+
+Or 
+
+```python
+a = 0  
+while a < 10:
+a += 1
+print(a)
+
+```
+
+
+</details>
+
+---
 
 _Almas_
 What is the output of this code?
@@ -432,7 +480,7 @@ for i in range(number):
 ---
 
 _Alex_
-
+What is the output?
 
 ```python
 x=4
@@ -535,7 +583,7 @@ else:
 </details>
 
 _Karina_
-
+What is the error?
 
 ```python
 
@@ -546,13 +594,16 @@ print(““HI!, MY NAME IS OAUHWDIQO”)
 <details>
 <summary>Answers</summary>
 
+Double quote marks at the font
+
 print(“HI!, MY NAME IS OAUHWDIQO”)
 
 </details>
 
 
-What would this return? Good luck heeeheeeheehaha
 _Gamble_
+
+What would this return? Good luck heeeheeeheehaha
 
 ```python
 x = 'Stephen ist nicht der beste'
@@ -595,8 +646,10 @@ print(len(str(cool_person.count('a'))))
 
 
 # Lists
-What is the output of the following code?
+
 _Alex_
+
+What is the output of the following code?
 ```python
 lst=[1,2,3,4,5,6,7,8,9,0,10,11]
 new_lst=[]
@@ -620,8 +673,9 @@ print(x)
 
 ---
 
-What is the output of this function?
 _Sean_
+
+What is the output of this function?
 ```python
 def happy(list2d):
   for row in list2d:
@@ -630,9 +684,6 @@ def happy(list2d):
     
 
 (happy([[12, 44, 54], [67, 45, 15]]))
-
-
-
 ```
 
 <details>
@@ -650,6 +701,7 @@ def happy(list2d):
 ---
 
 _Evil_Dennis_
+
 What is the output
 > Note: This question is probably a bit too evil, but feel free to have a go if you fancy it.
 
@@ -683,7 +735,8 @@ You want to play lets play
 
 ---
 
-Find the 2 error - Stephen Han
+_Stephen Han_
+Find the 2 error
 
 ```python
 Lst = (1,5,7,4,7)
@@ -702,8 +755,8 @@ Missing bracket at the end of the code
 
 ---
 
-What is the output?
 _Steven_Yen_
+What is the output?
 
 ```python
 
@@ -754,8 +807,10 @@ print(list[0][1])
 # For Each loops
 
 
-Find the output
 _Marcus_
+
+Find the output
+
 ```python
 workkakaka = ["Yo ", "Lol ", "Bye "]
 worddadada = ["Bro", "Man", "Marcus"]
@@ -798,8 +853,10 @@ print(mostfavfruit)
 
 </details>
 
-—
-_ Ann _
+---
+
+_Ann_
+
 What does this code print?
 
 ```python

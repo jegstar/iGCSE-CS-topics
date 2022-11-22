@@ -74,13 +74,13 @@ You can have more text after
 ## Q1
 _Divyash_
 What will the output be for the given inputs?
-
+```python
 a = int(input(1))
 b = int(input(2))
 c = int(input(3))
 
 print((-b * (b ** 2 - 4 * a * c) ** 0.5) / (2 * a))
-
+```
 
 
 <details>

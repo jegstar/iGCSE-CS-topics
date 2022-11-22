@@ -24,6 +24,31 @@ float
 </details>
 
 # Arithmetic Operators
+## Conditionals
+_Steven_Han_
+Find the output
+
+```python
+x = 3
+
+for i in range(5):
+  if x > 3:
+    x+=2
+    x%5
+    print(x)
+else:
+    x+=4
+    x*=2
+    print(x)
+
+```
+
+<details>
+<summary>Answers</summary>
+
+14
+
+</details>
 
 ## Cubes
 _Joanne_
@@ -88,6 +113,30 @@ while A %2 != 0:
 
 
 # Functions
+
+## Lists
+_Jacob_
+Find two errors with this code and suggest fixes for it.
+
+```python
+Years = (Y7, Y8, Y9)
+
+def addingH1(lst):
+  append.lst(H1)
+  return lst
+  
+print(addingH1(list))
+```
+
+Spot an error then write a fix for it -Jacob
+
+<details>
+<summary>Answers</summary>
+
+Brackets are not square brackets. Fix: [Y7, Y8, Y9]
+Function is written incorrectly. Fix: lst.append(H1)
+
+</details>
 
 
 ## What is the output
@@ -223,6 +272,60 @@ if num == 0:
 
 
 # While Loops
+## Find the output
+_Roker_
+```python
+x = 10
+while x < 20:
+  print(x)
+  x+=1
+
+```
+
+
+
+<details>
+<summary>Answers</summary>
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+</details>
+
+
+
+##Find the error
+_Evil_Marcus_
+```python
+import random
+import time
+x=0
+y=16
+
+while x != y:
+  if x == O:
+    y+=2
+  else:
+    y+=5
+print(y)
+
+```
+
+
+<details>
+<summary>Answer</summary>
+
+”O” not 0
+</details>
+
 ## Math
 _Stephen_
 Find the output
@@ -246,6 +349,68 @@ while x < 4:
 
 
 # For Loops
+
+## Question 1
+_Almas_
+What is the output of this code?
+
+```python
+number = 20
+for i in range(number):
+  if (i + number) % 2 == 0:
+    print(i+5)
+
+```
+
+
+<details>
+<summary>Answers</summary>
+
+
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+
+
+</details>
+
+## What is the output of the code
+_Alex_
+
+
+```python
+x=4
+y=0
+for i in range(x):
+  y+=x*2
+  x+=42
+  print(x)
+  print(y)
+
+```
+
+
+
+<details>
+<summary>Answers</summary>
+46 
+6
+88
+100
+130
+276
+172
+536
+
+</details>
+
 ## What is the output?
 _Ferdi_
 What is the output of the code below?
@@ -496,6 +661,30 @@ print (suxwy9ijthmnm)
 HeRe$!^
 ["FYI_+^#",3,"hi@#%",40,74,"QwErtY*&^",52,65,2,4,62,2,3]
 </details>
+
+## 
+_Sean_
+What is the output of:  
+```python
+list = []
+list2d = [1, 2, 3] 
+
+list.append(list2d)
+
+print(list[0][1])
+
+
+```
+
+
+<details>
+<summary>Answers</summary>
+
+2
+
+
+</details>
+
 
 
 # For Each loops

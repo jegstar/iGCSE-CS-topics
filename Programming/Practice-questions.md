@@ -1,22 +1,3 @@
-
----
-What is the output of this code?
-
-```python
-
-print(“Hi mum!”)
-
-```
-
-
-<details>
-<summary>Answers</summary>
-
-Hi mum!
-
-</details>
-
-
 # Types
 
 _Jacob_
@@ -79,7 +60,6 @@ print("Surface area of cube is: ", surfacearea)
 
 ```
 
-You can have more text after
 
 <details>
 <summary>Answers</summary>
@@ -159,7 +139,7 @@ Function is written incorrectly. Fix: lst.append(H1)
 
 ---
 
-What is the output
+What is the output?
 
 _Emir_ 
 
@@ -173,7 +153,6 @@ def math():
   return a
 print(math())
 ```
-You can have more text after
 
 <details>
 <summary>Answers</summary>
@@ -446,8 +425,6 @@ for i in range(len(lst)):
     print(lst[i] * 2 / 10)
 ```
 
-You can have more text after
-
 <details>
 <summary>Answers</summary>
 
@@ -487,6 +464,24 @@ Input numbers only with a space in between each of them, no commas.
 </details>
 
 # Strings
+
+_Karina_
+Find the error
+
+```python
+
+print(““HI!, MY NAME IS OAUHWDIQO”)
+
+```
+
+<details>
+<summary>Answers</summary>
+
+print(“HI!, MY NAME IS OAUHWDIQO”)
+
+</details>
+
+
 What would this return? Good luck heeeheeeheehaha
 _Gamble_
 
@@ -511,7 +506,7 @@ else:
 ---
 
 What would this return? Good luck heeeheeeheehaha
-_gamble_
+_Gamble_
 Question text
 
 ```python
@@ -528,27 +523,6 @@ print(len(str(cool_person.count('a'))))
 </details>
 
 ---
-
-
-Find the output
-_Marcus_
-```python
-workkakaka = ["Yo ", "Lol ", "Bye "]
-worddadada = ["Bro", "Man", "Marcus"]
-tootototo = ''
-for i in worddadada:
-  for x in workkakaka:
-    tootototo += x + i
-print(tootototo)
-
-```
-
-<details>
-<summary>Answers</summary>
-
-Yo BroLol BroBye BroYo ManLol ManBye ManYo MarcusLol MarcusBye Marcus
-
-</details>
 
 
 # Lists
@@ -709,3 +683,24 @@ print(list[0][1])
 
 
 # For Each loops
+
+
+Find the output
+_Marcus_
+```python
+workkakaka = ["Yo ", "Lol ", "Bye "]
+worddadada = ["Bro", "Man", "Marcus"]
+tootototo = ''
+for i in worddadada:
+  for x in workkakaka:
+    tootototo += x + i
+print(tootototo)
+
+```
+
+<details>
+<summary>Answers</summary>
+
+Yo BroLol BroBye BroYo ManLol ManBye ManYo MarcusLol MarcusBye Marcus
+
+</details>

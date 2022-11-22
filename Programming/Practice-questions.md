@@ -7,8 +7,9 @@ print('This is a code section')
 ```
 
 <details>
-<summary>My section header in bold</summary>
+<summary>Answers</summary>
 
-Write the answers here
+Write the answers here, there __MUST__ be a blank line above. 
 
 </details>
+

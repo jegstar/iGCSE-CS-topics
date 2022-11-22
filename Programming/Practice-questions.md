@@ -1,7 +1,11 @@
-This is a a question
+## This is a a question
+
+```python
+print('This is a code section')
+```
 
 <details>
-<summary><b>My section header in bold</b></summary>
+<summary>My section header in bold</summary>
 
 Write the answers here
 

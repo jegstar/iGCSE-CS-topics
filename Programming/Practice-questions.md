@@ -1,4 +1,4 @@
-## Question Title
+##Sample question
 
 Question text
 

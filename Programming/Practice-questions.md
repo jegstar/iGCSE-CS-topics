@@ -407,6 +407,7 @@ print(y)
 <details>
 <summary>Answer</summary>
 
+Error because
 "O" not 0
 </details>
 

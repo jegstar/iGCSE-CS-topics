@@ -15,3 +15,21 @@ Write the answers here, there __MUST__ be a blank line above.
 
 </details>
 
+
+# Types
+
+# Arithmetic Operators
+
+# Functions
+
+# Conditionals
+
+# While Loops
+
+# For Loops
+
+# Strings
+
+# Lists
+
+# For Each loops

@@ -235,6 +235,29 @@ print(maths(num))
 </details>
 
 # Conditionals
+---
+_OscarS_
+
+Find the errors (there are 2)
+
+```python
+
+Cash = int(input("How much money do you have : "))
+
+if cash > 100:
+  print("wow you have so much money!")
+elif cash <= 50
+  print("broke >:( ")
+else: print("that's an ok amount i guess")
+
+```
+
+<details>
+<summary>Answers</summary>
+
+all variables should be spelled the same , make Cash, cash. There should also be a colon after 50
+
+</details>
 
 
 _Liya_
@@ -466,7 +489,7 @@ Input numbers only with a space in between each of them, no commas.
 # Strings
 
 _Karina_
-Find the error
+
 
 ```python
 
@@ -704,3 +727,4 @@ print(tootototo)
 Yo BroLol BroBye BroYo ManLol ManBye ManYo MarcusLol MarcusBye Marcus
 
 </details>
+---

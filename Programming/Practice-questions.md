@@ -186,7 +186,7 @@ print(counta())
 <details>
 <summary>Answers</summary>
 
-“a” is a global variable, so it can not be redefined in the function. This problem can be fixed by adding an input to the function. The local variable in the function should also be different.
+"a" is a global variable, so it can not be redefined in the function. This problem can be fixed by adding an input to the function. The local variable in the function should also be different.
 
 ```python
 a = 2
@@ -291,8 +291,8 @@ elif num < 10:
 if num = 0:
   print("Really? Zero?")
 ```
-One “=” defines something!
-Use two “=”’s (==) to check if the condition is true. 
+One "=" defines something!
+Use two "="’s (==) to check if the condition is true. 
 
 ```python
 if num == 0:
@@ -384,7 +384,7 @@ print(y)
 <details>
 <summary>Answer</summary>
 
-”O” not 0
+"O" not 0
 </details>
 
 ---
@@ -614,7 +614,7 @@ What is the error?
 
 ```python
 
-print(““HI!, MY NAME IS OAUHWDIQO”)
+print(""HI!, MY NAME IS OAUHWDIQO")
 
 ```
 
@@ -623,7 +623,7 @@ print(““HI!, MY NAME IS OAUHWDIQO”)
 
 Double quote marks at the font
 
-print(“HI!, MY NAME IS OAUHWDIQO”)
+print("HI!, MY NAME IS OAUHWDIQO")
 
 </details>
 
@@ -863,11 +863,11 @@ What’s the output??
 
 ```python
 
-favfruit = [ “blueberry”,”strawberry”,”cherry”,”mango”,”peach”,”pineapple”,”kiwi” ]
+favfruit = [ "blueberry","strawberry","cherry","mango","peach","pineapple","kiwi" ]
 mostfavfruit = []
 
 For i in favfruit:
-	If “a” in x:
+	If "a" in x:
 		mostfavfruit.append(x)
 print(mostfavfruit)
 
@@ -876,7 +876,7 @@ print(mostfavfruit)
 <details>
 <summary>Answers</summary>
 
- [“strawberry”, “mango”, “pineapple”] 
+ ["strawberry", "mango", "pineapple"] 
 
 </details>
 

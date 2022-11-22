@@ -1,4 +1,22 @@
 
+---
+What is the output of this code?
+
+```python
+
+print(“Hi mum!”)
+
+```
+
+
+<details>
+<summary>Answers</summary>
+
+Hi mum!
+
+</details>
+
+
 # Types
 
 _Jacob_

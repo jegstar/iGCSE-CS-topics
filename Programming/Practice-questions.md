@@ -25,38 +25,69 @@ float
 
 # Arithmetic Operators
 
-# Functions
-
-## Another little function question
-_Liya_
-What is wrong with this code?
+## Cubes
+_Joanne_
+Find the surface area of a cube, when the length of a side is 8. 
 
 ```python
-maths = 2
+a = 8
+surfacearea = 6*(a*a)
+print("Surface area of cube is: ", surfacearea)
 
-def maths(a):
-  b = (a+2)*3/4
-  return b
-
-print(maths(maths))
 ```
+
+You can have more text after
 
 <details>
 <summary>Answers</summary>
 
-Don’t name your function and variable the same thing!
-
-```python
-num = 2
-
-def maths(a):
-  b = (a+2)*3/4
-  return b
-
-print(maths(num))
-```
+384
 
 </details>
+
+
+## Q1
+_Divyash_
+What will the output be for the given inputs?
+
+a = int(input(1))
+b = int(input(2))
+c = int(input(3))
+
+print((-b * (b ** 2 - 4 * a * c) ** 0.5) / (2 * a))
+
+
+
+<details>
+<summary>Answers</summary>
+
+1
+
+</details>
+
+## Mathknut
+What is the output
+```python
+A=5
+
+
+
+while A %2 != 0:
+  print(A + 67)
+  A+=1
+
+
+```
+
+<details>
+<summary>Answer</summary>
+
+72
+
+</details>
+
+
+# Functions
 
 
 ## What is the output
@@ -124,7 +155,72 @@ print(counta())
 </details>
 
 
+## Another little function question
+_Liya_
+What is wrong with this code?
+
+```python
+maths = 2
+
+def maths(a):
+  b = (a+2)*3/4
+  return b
+
+print(maths(maths))
+```
+
+<details>
+<summary>Answers</summary>
+
+Don’t name your function and variable the same thing!
+
+```python
+num = 2
+
+def maths(a):
+  b = (a+2)*3/4
+  return b
+
+print(maths(num))
+```
+
+</details>
+
 # Conditionals
+
+## Conditionals question
+_Liya_
+What is wrong with this code?
+
+```python
+num = int(input("Give a number: "))
+
+if num = 0:
+  print("Really? Zero?")
+elif num > 1 and num < 4:
+  print("Starting small...")
+elif num < 10:
+  print("Getting big!")
+```
+
+<details>
+<summary>Answers</summary>
+
+```python
+if num = 0:
+  print("Really? Zero?")
+```
+One “=” defines something!
+Use two “=”’s (==) to check if the condition is true. 
+
+```python
+if num == 0:
+  print("Really? Zero?")
+```
+
+</details>
+
+
 
 # While Loops
 ## Math
@@ -150,6 +246,39 @@ while x < 4:
 
 
 # For Loops
+## What is the output?
+_Ferdi_
+What is the output of the code below?
+
+```python
+lst = [1,2,3,4,5,6,7,8,9,10]
+for i in range(len(lst)):
+  if lst[i] % 2 == 0:
+    print(lst[i])
+  else:
+    print(lst[i] * 2 / 10)
+```
+
+You can have more text after
+
+<details>
+<summary>Answers</summary>
+
+0.2
+2
+0.6
+4
+1.0
+6
+1.4
+8
+1.8
+10
+
+</details>
+
+
+
 ## For Loops
 _Jacob_
 Write the output for the following loop
@@ -172,6 +301,28 @@ Input numbers only with a space in between each of them, no commas.
 </details>
 
 # Strings
+## What would this return? Good luck heeeheeeheehaha
+_Gamble_
+Question text
+
+```python
+x = 'Stephen ist nicht der beste'
+
+if x.count('e') == 7-2:
+	print(':)')
+else:
+	print(':(')
+
+```
+
+You can have more text after
+
+<details>
+<summary>Answers</summary>
+
+:)
+
+</details>
 
 ## What would this return? Good luck heeeheeeheehaha
 _gamble_
@@ -190,6 +341,34 @@ You can have more text after
 1
 
 </details>
+
+## Find the output
+_Marcus_
+```python
+workkakaka = ["Yo ", "Lol ", "Bye "]
+worddadada = ["Bro", "Man", "Marcus"]
+tootototo = ''
+for i in worddadada:
+  for x in workkakaka:
+    tootototo += x + i
+print(tootototo)
+
+
+
+
+
+```
+
+
+You can have more text after
+
+<details>
+<summary>Answers</summary>
+
+Yo BroLol BroBye BroYo ManLol ManBye ManYo MarcusLol MarcusBye Marcus
+
+</details>
+
 
 # Lists
 ## What is the output of the following code?
@@ -244,6 +423,79 @@ def happy(list2d):
 </details>
 
 
+## What is that melody
+_Evil_Dennis_
+What is the output
+
+```python
+list = ([[7,2,3],[5,62,4]],[[1,5,0],[10,91,52]],[[0,1,2],[3,4,5]])
+def very_simple_mathematics(list):
+  test = [7,2,3,4,5]
+  check = ''
+  temp = []
+  for i in range(len(list)):
+    temp.append(list[i][i-1][i-1])
+  for i in temp:
+    check += str(i)
+  for i in temp:
+    for x in test:
+      if i == x:
+        check += str(x)
+  return check
+
+print(very_simple_mathematics(list))
+```
+
+You want to play lets play
+
+<details>
+<summary>Answers</summary>
+
+41444
+
+</details>
+
+## List
+
+Find the 2 error - Stephen Han
+
+```python
+Lst = (1,5,7,4,7)
+print(lst.count(‘e’)
+```
+
+
+<details>
+<summary>Answers</summary>
+
+[   ] not ()
+
+Missing bracket at the end of the code
+
+</details>
+
+## What is the output?
+_Steven_Yen_
+
+```python
+
+suxwy9ijthmnm=["FYI_+^#",3,"hi@#%","HeRe$!^",40,74,"QwErtY*&^",52,65,2,4,62,2,3]
+
+print (suxwy9ijthmnm.pop(11))
+print (suxwy9ijthmnm)
+print (suxwy9ijthmnm.pop(3))
+print (suxwy9ijthmnm)
+```
+
+
+<details>
+<summary>Answers</summary>
+
+62
+["FYI",3,"hi","here",40,74,"qwerty",52,65,2,4,2,3] 
+HeRe$!^
+["FYI_+^#",3,"hi@#%",40,74,"QwErtY*&^",52,65,2,4,62,2,3]
+</details>
 
 
 # For Each loops

@@ -281,7 +281,8 @@ if cash > 100:
   print("wow you have so much money!")
 elif cash <= 50
   print("broke >:( ")
-else: print("that's an ok amount i guess")
+else: 
+  print("that's an ok amount i guess")
 
 ```
 

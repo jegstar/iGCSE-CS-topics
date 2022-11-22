@@ -293,8 +293,10 @@ all variables should be spelled the same , make Cash, cash. There should also be
 
 </details>
 
+---
 
 _Liya_
+
 What is wrong with this code?
 
 ```python
@@ -330,6 +332,7 @@ if num == 0:
 # While Loops
 
 _Carlos_
+
 What is the output?!??!!?!?!?!?!!!?!?!? 
 
 ```python
@@ -354,6 +357,8 @@ iiii
 iiiii
 
 </details>
+
+---
 
 _Roker_
 
@@ -471,7 +476,9 @@ print(a)
 
 ---
 
-_Karina_(MWAHAHAHAHA)_
+_Karina_
+
+(MWAHAHAHAHA)
 
 Rewrite this as a while loop
 
@@ -500,6 +507,7 @@ while x < 6:
 
 
 _Almas_
+
 What is the output of this code?
 
 ```python
@@ -532,6 +540,7 @@ for i in range(number):
 ---
 
 _Alex_
+
 What is the output?
 
 ```python
@@ -563,6 +572,7 @@ for i in range(x):
 ---
 
 _Ferdi_
+
 What is the output of the code below?
 
 ```python
@@ -593,6 +603,7 @@ for i in range(len(lst)):
 ---
 
 _Jacob_
+
 Write the output for the following loop
 
 ```python
@@ -614,6 +625,7 @@ Input numbers only with a space in between each of them, no commas.
 
 # Strings
 _YuTang_
+
 What is the output?
 
 ```python
@@ -634,7 +646,10 @@ else:
 
 </details>
 
+---
+
 _Karina_
+
 What is the error?
 
 ```python
@@ -652,6 +667,7 @@ print("HI!, MY NAME IS OAUHWDIQO")
 
 </details>
 
+---
 
 _Gamble_
 
@@ -678,8 +694,9 @@ else:
 ---
 
 What would this return? Good luck heeeheeeheehaha
+
 _Gamble_
-Question text
+
 
 ```python
 cool_person = 'Thomas Gamble'
@@ -776,7 +793,7 @@ def very_simple_mathematics(list):
 print(very_simple_mathematics(list))
 ```
 
-You want to play lets play
+You want to play? Let's play
 
 <details>
 <summary>Answers</summary>
@@ -787,7 +804,7 @@ You want to play lets play
 
 ---
 
-_Stephen Han_
+_StephenHan_
 Find the 2 error
 
 ```python
@@ -833,6 +850,7 @@ HeRe$!^
  ---
 
 _Sean_
+
 What is the output of:  
 ```python
 list = []

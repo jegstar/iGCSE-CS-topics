@@ -1,27 +1,27 @@
 
 # Types
 
-	_Jacob_
-	What data type is returned from this function?
+_Jacob_
+What data type is returned from this function?
 
-	```python
-	def mathematics(x):
-	  y = x+4/2
-	  return y+x
+```python
+def mathematics(x):
+  y = x+4/2
+  return y+x
 
-	print(mathematics(6))
+print(mathematics(6))
 
 
-	```
+```
 
-	Remember, the data type and not the output. -Jacob
+Remember, the data type and not the output. -Jacob
 
-	<details>
-	<summary>Answers</summary>
+<details>
+<summary>Answers</summary>
 
-	float
+float
 
-	</details>
+</details>
 
 # Arithmetic Operators
 _Steven_Han_
@@ -49,7 +49,7 @@ else:
 
 </details>
 
-## Cubes
+
 _Joanne_
 Find the surface area of a cube, when the length of a side is 8. 
 
@@ -70,7 +70,7 @@ You can have more text after
 </details>
 
 
-## Q1
+
 _Divyash_
 What will the output be for the given inputs?
 ```python
@@ -113,7 +113,7 @@ while A %2 != 0:
 
 # Functions
 
-## Lists
+
 _Jacob_
 Find two errors with this code and suggest fixes for it.
 
@@ -138,7 +138,7 @@ Function is written incorrectly. Fix: lst.append(H1)
 </details>
 
 
-## What is the output
+What is the output
 
 _Emir_ 
 
@@ -161,7 +161,6 @@ You can have more text after
 
 </details>
 
-## A little function question
 
 _Liya_
 What is wrong with this code?
@@ -203,7 +202,7 @@ print(counta())
 </details>
 
 
-## Another little function question
+
 _Liya_
 What is wrong with this code?
 
@@ -236,7 +235,7 @@ print(maths(num))
 
 # Conditionals
 
-## Conditionals question
+
 _Liya_
 What is wrong with this code?
 
@@ -271,7 +270,7 @@ if num == 0:
 
 
 # While Loops
-## Find the output
+
 _Roker_
 ```python
 x = 10
@@ -300,8 +299,6 @@ while x < 20:
 </details>
 
 
-
-##Find the error
 _Evil_Marcus_
 ```python
 import random
@@ -325,7 +322,7 @@ print(y)
 ”O” not 0
 </details>
 
-## Math
+
 _Stephen_
 Find the output
 
@@ -349,7 +346,7 @@ while x < 4:
 
 # For Loops
 
-## Question 1
+
 _Almas_
 What is the output of this code?
 
@@ -380,7 +377,7 @@ for i in range(number):
 
 </details>
 
-## What is the output of the code
+
 _Alex_
 
 
@@ -410,7 +407,6 @@ for i in range(x):
 
 </details>
 
-## What is the output?
 _Ferdi_
 What is the output of the code below?
 
@@ -442,8 +438,6 @@ You can have more text after
 </details>
 
 
-
-## For Loops
 _Jacob_
 Write the output for the following loop
 
@@ -465,7 +459,7 @@ Input numbers only with a space in between each of them, no commas.
 </details>
 
 # Strings
-## What would this return? Good luck heeeheeeheehaha
+What would this return? Good luck heeeheeeheehaha
 _Gamble_
 Question text
 
@@ -488,7 +482,7 @@ You can have more text after
 
 </details>
 
-## What would this return? Good luck heeeheeeheehaha
+What would this return? Good luck heeeheeeheehaha
 _gamble_
 Question text
 
@@ -506,7 +500,7 @@ You can have more text after
 
 </details>
 
-## Find the output
+Find the output
 _Marcus_
 ```python
 workkakaka = ["Yo ", "Lol ", "Bye "]
@@ -535,7 +529,7 @@ Yo BroLol BroBye BroYo ManLol ManBye ManYo MarcusLol MarcusBye Marcus
 
 
 # Lists
-## What is the output of the following code?
+What is the output of the following code?
 _Alex_
 ```python
 lst=[1,2,3,4,5,6,7,8,9,0,10,11]
@@ -559,7 +553,7 @@ print(x)
 </details>
 
 
-## What is the output of this function?
+What is the output of this function?
 _Sean_
 ```python
 def happy(list2d):
@@ -586,8 +580,6 @@ def happy(list2d):
 15
 </details>
 
-
-## What is that melody
 _Evil_Dennis_
 What is the output
 
@@ -638,7 +630,7 @@ Missing bracket at the end of the code
 
 </details>
 
-## What is the output?
+What is the output?
 _Steven_Yen_
 
 ```python
@@ -660,8 +652,7 @@ print (suxwy9ijthmnm)
 HeRe$!^
 ["FYI_+^#",3,"hi@#%",40,74,"QwErtY*&^",52,65,2,4,62,2,3]
 </details>
-
-## 
+ 
 _Sean_
 What is the output of:  
 ```python

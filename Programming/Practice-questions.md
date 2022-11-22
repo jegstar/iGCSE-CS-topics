@@ -1,30 +1,29 @@
 
 # Types
-## Types
-_Jacob_
-What data type is returned from this function?
 
-```python
-def mathematics(x):
-  y = x+4/2
-  return y+x
+	_Jacob_
+	What data type is returned from this function?
 
-print(mathematics(6))
+	```python
+	def mathematics(x):
+	  y = x+4/2
+	  return y+x
+
+	print(mathematics(6))
 
 
-```
+	```
 
-Remember, the data type and not the output. -Jacob
+	Remember, the data type and not the output. -Jacob
 
-<details>
-<summary>Answers</summary>
+	<details>
+	<summary>Answers</summary>
 
-float
+	float
 
-</details>
+	</details>
 
 # Arithmetic Operators
-## Conditionals
 _Steven_Han_
 Find the output
 

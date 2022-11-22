@@ -411,7 +411,7 @@ while x < 4:
 
 
 # For Loops
-_ Millie Yeh _
+_Millie_Yeh_
 Rewrite the loop
 
 ```python
@@ -429,7 +429,6 @@ a = 0
 while a <= 9:
 a += 1
 print(a)
-
 ```
 
 Or 
@@ -448,6 +447,7 @@ print(a)
 ---
 
 _Karina_(MWAHAHAHAHA)_
+
 Rewrite this as a while loop
 
 ```python

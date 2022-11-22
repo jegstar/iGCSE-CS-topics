@@ -49,6 +49,7 @@ else:
 
 </details>
 
+---
 
 _Joanne_
 Find the surface area of a cube, when the length of a side is 8. 
@@ -69,7 +70,7 @@ You can have more text after
 
 </details>
 
-
+---
 
 _Divyash_
 What will the output be for the given inputs?
@@ -88,6 +89,8 @@ print((-b * (b ** 2 - 4 * a * c) ** 0.5) / (2 * a))
 1
 
 </details>
+
+---
 
 ## Mathknut
 What is the output
@@ -137,6 +140,7 @@ Function is written incorrectly. Fix: lst.append(H1)
 
 </details>
 
+---
 
 What is the output
 
@@ -161,6 +165,7 @@ You can have more text after
 
 </details>
 
+---
 
 _Liya_
 What is wrong with this code?
@@ -201,7 +206,7 @@ print(counta())
 
 </details>
 
-
+---
 
 _Liya_
 What is wrong with this code?
@@ -267,7 +272,7 @@ if num == 0:
 
 </details>
 
-
+---
 
 # While Loops
 
@@ -298,6 +303,7 @@ while x < 20:
 
 </details>
 
+---
 
 _Evil_Marcus_
 ```python
@@ -322,6 +328,7 @@ print(y)
 ”O” not 0
 </details>
 
+---
 
 _Stephen_
 Find the output
@@ -377,6 +384,7 @@ for i in range(number):
 
 </details>
 
+---
 
 _Alex_
 
@@ -406,6 +414,8 @@ for i in range(x):
 536
 
 </details>
+
+---
 
 _Ferdi_
 What is the output of the code below?
@@ -437,6 +447,7 @@ You can have more text after
 
 </details>
 
+---
 
 _Jacob_
 Write the output for the following loop
@@ -461,7 +472,6 @@ Input numbers only with a space in between each of them, no commas.
 # Strings
 What would this return? Good luck heeeheeeheehaha
 _Gamble_
-Question text
 
 ```python
 x = 'Stephen ist nicht der beste'
@@ -473,7 +483,6 @@ else:
 
 ```
 
-You can have more text after
 
 <details>
 <summary>Answers</summary>
@@ -481,6 +490,8 @@ You can have more text after
 :)
 
 </details>
+
+---
 
 What would this return? Good luck heeeheeeheehaha
 _gamble_
@@ -491,7 +502,6 @@ cool_person = 'Thomas Gamble'
 print(len(str(cool_person.count('a'))))
 ```
 
-You can have more text after
 
 <details>
 <summary>Answers</summary>
@@ -499,6 +509,9 @@ You can have more text after
 1
 
 </details>
+
+---
+
 
 Find the output
 _Marcus_
@@ -511,14 +524,7 @@ for i in worddadada:
     tootototo += x + i
 print(tootototo)
 
-
-
-
-
 ```
-
-
-You can have more text after
 
 <details>
 <summary>Answers</summary>
@@ -552,6 +558,7 @@ print(x)
 
 </details>
 
+---
 
 What is the output of this function?
 _Sean_
@@ -580,8 +587,11 @@ def happy(list2d):
 15
 </details>
 
+---
+
 _Evil_Dennis_
 What is the output
+> Note: This question is probably a bit too evil, but feel free to have a go if you fancy it.
 
 ```python
 list = ([[7,2,3],[5,62,4]],[[1,5,0],[10,91,52]],[[0,1,2],[3,4,5]])
@@ -611,7 +621,7 @@ You want to play lets play
 
 </details>
 
-## List
+---
 
 Find the 2 error - Stephen Han
 
@@ -629,6 +639,8 @@ print(lst.count(‘e’)
 Missing bracket at the end of the code
 
 </details>
+
+---
 
 What is the output?
 _Steven_Yen_
@@ -653,6 +665,8 @@ HeRe$!^
 ["FYI_+^#",3,"hi@#%",40,74,"QwErtY*&^",52,65,2,4,62,2,3]
 </details>
  
+ ---
+
 _Sean_
 What is the output of:  
 ```python

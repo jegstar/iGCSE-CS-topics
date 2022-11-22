@@ -92,7 +92,6 @@ print((-b * (b ** 2 - 4 * a * c) ** 0.5) / (2 * a))
 
 ---
 
-## Mathknut
 What is the output
 ```python
 A=5

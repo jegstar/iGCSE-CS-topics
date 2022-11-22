@@ -295,6 +295,32 @@ if num == 0:
 
 # While Loops
 
+_Carlos_
+What is the output?!??!!?!?!?!?!!!?!?!? 
+
+```python
+
+number=0
+i=1
+while number!=5:
+  print(i*"i")
+  number+=1
+  i+=1 
+```
+
+
+<details>
+<summary>Answers</summary>
+
+  
+i
+ii
+iii
+iiii
+iiiii
+
+</details>
+
 _Roker_
 ```python
 x = 10
@@ -487,6 +513,26 @@ Input numbers only with a space in between each of them, no commas.
 </details>
 
 # Strings
+_YuTang_
+What is the output?
+
+```python
+
+a=['dumb ways to die']
+if len(a)!= (pow(2,3)):
+  print ("BANANA")
+else:
+  print ("woo")
+
+
+```
+
+<details>
+<summary>Answers</summary>
+
+ BANANA
+
+</details>
 
 _Karina_
 
@@ -751,3 +797,35 @@ print(mostfavfruit)
  [“strawberry”, “mango”, “pineapple”] 
 
 </details>
+
+—
+_ Ann _
+What does this code print?
+
+```python
+
+gummy_bears = ["red", "purple", "orange", "blue", "green", "yellow"]
+for bear in gummy_bears:
+  if len(bear) >5:
+    print(bear[:-1])
+  else:
+    text = ""
+    for i in bear:
+      text = i + text
+    print(text)
+
+```
+Blue gummy bears taste good. 
+
+<details>
+<summary>Answers</summary>
+
+ der
+purpl
+orang
+eulb
+neerg
+yello
+
+</details>
+

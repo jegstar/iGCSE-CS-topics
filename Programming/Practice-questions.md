@@ -866,8 +866,8 @@ What’s the output??
 favfruit = [ "blueberry","strawberry","cherry","mango","peach","pineapple","kiwi" ]
 mostfavfruit = []
 
-For i in favfruit:
-	If "a" in x:
+for i in favfruit:
+	if "a" in x:
 		mostfavfruit.append(x)
 print(mostfavfruit)
 

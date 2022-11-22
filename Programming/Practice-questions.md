@@ -447,6 +447,33 @@ print(a)
 
 ---
 
+_Karina_(MWAHAHAHAHA)_
+Rewrite this as a while loop
+
+```python
+
+lst = [1, 2, 3, 4, 5, 6]
+
+for item in lst:
+   print(item)
+
+```
+
+<details>
+<summary>Answers</summary>
+```python
+x = 0
+while x < 6:
+   print (lst[x])
+   x += 1
+```
+
+</details>
+
+---
+
+
+
 _Almas_
 What is the output of this code?
 

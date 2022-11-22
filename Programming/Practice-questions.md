@@ -728,3 +728,25 @@ Yo BroLol BroBye BroYo ManLol ManBye ManYo MarcusLol MarcusBye Marcus
 
 </details>
 ---
+
+_Millie Yeh_
+What’s the output??
+
+```python
+
+favfruit = [ “blueberry”,”strawberry”,”cherry”,”mango”,”peach”,”pineapple”,”kiwi” ]
+mostfavfruit = []
+
+For i in favfruit:
+	If “a” in x:
+		mostfavfruit.append(x)
+print(mostfavfruit)
+
+```
+
+<details>
+<summary>Answers</summary>
+
+ [“strawberry”, “mango”, “pineapple”] 
+
+</details>

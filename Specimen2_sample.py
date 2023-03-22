@@ -1,4 +1,15 @@
+######## CREATE PATIENT ARRAYS FOR TESTING ########
+from random import randint
+patient = []
+for i in range(1000):
+    # make random name
+    patient.append(chr(randint(65,91)) + chr(randint(97, 113)) + chr(randint(97,113)))
+#make random readings
+readings = [[randint(300, 380)/100, randint(400,1200)/10] for _ in range(1000)]
+############  THE ABOVE IS JUST TO MAKE MY CODE WORK DON'T DO IT IN THE EXAM #########
 
+
+# Write a procedure that takes a patient ID as 
 def checkPatient(id):
     if id < 1 or id > 1000: # check to see if patient id is valid
         print("Patient ID out of range") # error message if incorrect
@@ -10,7 +21,9 @@ def checkPatient(id):
     # Print patient name
     print(patient[id])
 
-    temp, pulse = readings[id]
+    # Get the temperature and pulse from the 2D array
+    temp = readings[id][0]
+    pulse = readings[id][1]
 
     # check if both readings are out
     if (temp < 31.6 or temp > 37.2) and (pulse < 55.0 or pulse > 100.0):
